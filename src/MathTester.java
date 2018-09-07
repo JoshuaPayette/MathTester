@@ -31,14 +31,14 @@ public class MathTester {
         What is your height in inches? 69
         inches = their input*/
 
-       /* System.out.println(firstWord+secondWord);
+        System.out.println(firstWord+secondWord);
         System.out.println(firstWord+(firstNumber+secondNumber));
         System.out.println("firstNumber + secondNumber is "+ (firstNumber+secondNumber));
         System.out.println("firstNumber - secondNumber is "+ (firstNumber-secondNumber));
         System.out.println("secondNumber / firstNumber is "+ (secondNumber/firstNumber));
         System.out.println("firstNumber * secondNumber is "+ (firstNumber*secondNumber));
         System.out.println("The modulus of the secondNumber by the firstNumber" +
-                " is "+ (secondNumber%firstNumber));*/
+                " is "+ (secondNumber%firstNumber));
 
 
 
